@@ -18,10 +18,8 @@ It also includes a simple **Style interface** to showcase UI integration and tem
 * Integration of HTML templates with Django views
 * Static files handling (CSS, Images)
 * Clean frontend-backend connectivity
-
 ---
 ## 📁 Project Structure
-
 ```
 project/
 │── whatsapp/
